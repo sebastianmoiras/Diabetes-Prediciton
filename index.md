@@ -11,10 +11,12 @@ This comparison highlights how **architecture choices** can affect model accurac
 
 ---
 
-## Results
-
 **Dataset Sample (Input Features)**  
 ![Dataset Sample](/assets/diabetes-sample.png)
+
+---
+
+## Result
 
 ---
 
