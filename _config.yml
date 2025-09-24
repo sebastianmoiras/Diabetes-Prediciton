@@ -1,0 +1,9 @@
+title: "Diabetes Prediction"
+description: >
+  Machine learning project that predicts the likelihood of diabetes 
+  based on patient health data, using classification to 
+  support early diagnosis and preventive care.
+author: "Jonathan Sebastian Moiras"
+github_username: sebastianmoiras
+show_downloads: false
+theme: jekyll-theme-minimal
